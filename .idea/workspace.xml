@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="92c2f3c0-11ed-44ac-a687-aff6c6d656ec" name="Changes" comment="git commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/itheima/config/WebMcvcConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/git-clonecie" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,6 +50,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "C:/AAA/reggie_take_out/reggie_take_out/src/main/resources",
     "project.structure.last.edited": "Modules",
@@ -96,6 +98,7 @@
       <workItem from="1651211627251" duration="166000" />
       <workItem from="1651498883395" duration="495000" />
       <workItem from="1651499701454" duration="2436000" />
+      <workItem from="1670929135184" duration="51000" />
     </task>
     <task id="LOCAL-00001" summary="git commit">
       <created>1651207098683</created>
