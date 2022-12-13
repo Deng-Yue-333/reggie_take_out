@@ -4,21 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="92c2f3c0-11ed-44ac-a687-aff6c6d656ec" name="Changes" comment="git commit">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/itheima/reggie/common/R.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/itheima/reggie/config/WebMvcConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/itheima/reggie/controller/EmployeeController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/itheima/reggie/entity/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/itheima/reggie/mapper/EmployeeMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/itheima/reggie/service/EmployeeService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/itheima/reggie/service/impl/EmployeeServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+    <list default="true" id="92c2f3c0-11ed-44ac-a687-aff6c6d656ec" name="Changes" comment="2">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/itheima/reggie/filter/LoginCheckFilter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/git-clonecie" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/itheima/ReggieApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/itheima/reggie/ReggieApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/itheima/config/WebMcvcConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/itheima/reggie/ReggieApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/itheima/reggie/ReggieApplication.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,7 +109,7 @@
       <workItem from="1651211627251" duration="166000" />
       <workItem from="1651498883395" duration="495000" />
       <workItem from="1651499701454" duration="2436000" />
-      <workItem from="1670929135184" duration="5884000" />
+      <workItem from="1670929135184" duration="7209000" />
     </task>
     <task id="LOCAL-00001" summary="git commit">
       <created>1651207098683</created>
@@ -150,7 +139,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670929196046</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="2">
+      <created>1670938713169</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1670938713169</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -170,6 +166,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="push" />
     <MESSAGE value="git commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="git commit" />
+    <MESSAGE value="2" />
+    <option name="LAST_COMMIT_MESSAGE" value="2" />
   </component>
 </project>
