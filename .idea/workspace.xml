@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="92c2f3c0-11ed-44ac-a687-aff6c6d656ec" name="Changes" comment="2">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/itheima/reggie/common/GlobalExceptionHandler.java" afterDir="false" />
+    <list default="true" id="92c2f3c0-11ed-44ac-a687-aff6c6d656ec" name="Changes" comment="3">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/itheima/reggie/config/MybatisPlusConfig.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/itheima/reggie/controller/EmployeeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/itheima/reggie/controller/EmployeeController.java" afterDir="false" />
     </list>
@@ -111,7 +111,7 @@
       <workItem from="1651499701454" duration="2436000" />
       <workItem from="1670929135184" duration="7251000" />
       <workItem from="1671566236518" duration="1285000" />
-      <workItem from="1671573716696" duration="4035000" />
+      <workItem from="1671573716696" duration="5993000" />
     </task>
     <task id="LOCAL-00001" summary="git commit">
       <created>1651207098683</created>
@@ -155,7 +155,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670940024374</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="3">
+      <created>1671578924096</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1671578924096</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -176,6 +183,7 @@
     <MESSAGE value="push" />
     <MESSAGE value="git commit" />
     <MESSAGE value="2" />
-    <option name="LAST_COMMIT_MESSAGE" value="2" />
+    <MESSAGE value="3" />
+    <option name="LAST_COMMIT_MESSAGE" value="3" />
   </component>
 </project>
